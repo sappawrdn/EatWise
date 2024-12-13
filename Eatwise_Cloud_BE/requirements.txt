@@ -1,0 +1,7 @@
+Flask==2.3.2
+tensorflow==2.16.1
+pillow==9.5.0
+pymysql==1.0.3
+google-cloud-storage==2.11.0
+pandas
+

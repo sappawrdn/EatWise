@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+*.env
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+env/
+
+# Service account key
+service-account.json
+
+# Byte-compiled files
+*.py[co]
+
+# Docker
+.Dockerfile.swp
+docker-compose.override.yml
+
+# IDE and Editor specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Cloud build artifacts
+*.tar.gz
